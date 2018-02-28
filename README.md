@@ -4,7 +4,9 @@ React app made during week 5-6 of the 9-week Codaisseur Academy. The backend for
 
 This app, that streams RSVP's with the 'Software Development' topic from Meetup.com, was built as an exercise to get to know Socket.IO.
 
-![Preview](src/images/MeetupMashup.png)
+<kbd>
+  <img src="src/images/MeetupMashup.png">
+</kbd>
 
 ## Steps
 
